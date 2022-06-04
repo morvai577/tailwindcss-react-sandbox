@@ -1,5 +1,6 @@
 # A Tailwind CSS Sandbox Project
 
+
 ### Prerequisites
 
 - `npm` and `pnpm` should be installed.
@@ -23,3 +24,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.
 
 Your app is ready to be deployed.
+
+#### Credits
+
+Was able to achieve this thanks to this [video tutorial](https://www.youtube.com/watch?v=XBYvzPe7skc)](https://www.youtube.com/watch?v=XBYvzPe7skc
