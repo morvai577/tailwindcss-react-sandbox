@@ -1,27 +1,5 @@
-# React Template（⚡️）
+# A Tailwind CSS Sandbox Project
 
-⚡️ A minimal React Vite starter template.
-
-## Feature
-
-- ⚡️ Fast - Build tools based on vite.
-- 👻 Small - Based on the smallest runnable build.
-- 💄 Prettier - Integrated Prettier to help you format the code.
-- ✅ Safety - Https is enabled by default.
-- 😎 Reliable - Integrated eslint and commitlint.
-- 🤖 Intelligent - Integrated renovate to help you maintain the dependent version.
-
-## Preview
-
-[![qekup8.png](https://s1.ax1x.com/2022/03/20/qekup8.png)](https://imgtu.com/i/qekup8)
-
-## Getting Started
-
-```bash
-npx degit 0x219/vite-template-react-plus myapp
-
-cd myapp
-```
 
 ### Prerequisites
 
@@ -46,3 +24,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.
 
 Your app is ready to be deployed.
+
+#### Credits
+
+Was able to achieve this thanks to this [video tutorial](https://www.youtube.com/watch?v=XBYvzPe7skc)](https://www.youtube.com/watch?v=XBYvzPe7skc
