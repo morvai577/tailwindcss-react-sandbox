@@ -1,3 +1,13 @@
+import { Notification } from "./components/Notification";
+import { Colours } from "./components/Colours";
+import { ContainerAndSpacing } from "./components/ContainerAndSpacing";
+
 export default function App() {
-  return <div className="App text-4xl underline italic">hello world</div>;
+  return (
+    <div>
+      <Notification />
+      <Colours />
+      <ContainerAndSpacing />
+    </div>
+  );
 }
